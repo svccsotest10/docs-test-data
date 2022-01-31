@@ -7,6 +7,10 @@ owner: Kapil Madan
 
 some text
 
+# a second h1
+
+some text
+
 ## this is h2 title
 
 some text
